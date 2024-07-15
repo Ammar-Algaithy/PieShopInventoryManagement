@@ -1,0 +1,5 @@
+1;Apple Pie;A delicious apple pie with a flaky crust;50;50;Dollar;Piece;10
+2;Cherry Pie;A sweet cherry pie with a golden brown crust;40;99;Dollar;Piece;15
+3;Pumpkin Pie;A traditional pumpkin pie perfect for the holidays;30;99;Dollar;Piece;20
+4;Blueberry Pie;A fresh blueberry pie with a hint of lemon;25;19;Dollar;Piece;5
+5;Pecan Pie;A rich pecan pie with a buttery crust;20;24;Dollar;Piece;8

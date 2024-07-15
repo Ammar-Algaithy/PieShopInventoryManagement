@@ -1,0 +1,14 @@
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/bin/Debug/net8.0/PieShop.InventoryManagement
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/bin/Debug/net8.0/PieShop.InventoryManagement.deps.json
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/bin/Debug/net8.0/PieShop.InventoryManagement.runtimeconfig.json
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/bin/Debug/net8.0/PieShop.InventoryManagement.dll
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/bin/Debug/net8.0/PieShop.InventoryManagement.pdb
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/obj/Debug/net8.0/PieShop.InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/obj/Debug/net8.0/PieShop.InventoryManagement.AssemblyInfoInputs.cache
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/obj/Debug/net8.0/PieShop.InventoryManagement.AssemblyInfo.cs
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/obj/Debug/net8.0/PieShop.InventoryManagement.csproj.CoreCompileInputs.cache
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/obj/Debug/net8.0/PieShop.InventoryManagement.dll
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/obj/Debug/net8.0/refint/PieShop.InventoryManagement.dll
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/obj/Debug/net8.0/PieShop.InventoryManagement.pdb
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/obj/Debug/net8.0/PieShop.InventoryManagement.genruntimeconfig.cache
+/Users/ammaralgaithy/Downloads/OOPC#/PieShop.InventoryManagement/PieShop.InventoryManagement/obj/Debug/net8.0/ref/PieShop.InventoryManagement.dll
